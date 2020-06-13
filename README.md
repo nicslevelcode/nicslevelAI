@@ -6,6 +6,6 @@ If you'd like to get started on Artificial Intelligence and Machine Learning, I'
 https://docs.google.com/document/d/1NCcGPw8VKLNYvjEPgqLbhZQwnD21Kri8ojgakKfAAVb/edit?usp=sharing
 
 Predicting HDB (Singapore Housing) Resale Prices: https://github.com/nicslevelcode/nicslevelAI/blob/master/HDB_Resale_Prices.ipynb
-Looking through AI/ML jobs in Singapore: https://github.com/nicslevelcode/nicslevelAI/blob/master/AI%20and%20ML%20jobs.ipynb
+<br>Looking through AI/ML jobs in Singapore: https://github.com/nicslevelcode/nicslevelAI/blob/master/AI%20and%20ML%20jobs.ipynb
 
 
