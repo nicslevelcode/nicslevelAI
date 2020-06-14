@@ -7,8 +7,8 @@ https://docs.google.com/document/d/1NCcGPw8VKMeoDHjNth1NQgyKzFzhAne8H2orZKfAAVb/
 
 Predicting HDB (Singapore Housing) Resale Prices: https://github.com/nicslevelcode/nicslevelAI/blob/master/HDB_Resale_Prices.ipynb
 
-<br>Exploring Deep Learning/Time Series with Singapore GDP data (WIP): https://github.com/nicslevelcode/nicslevelAI/blob/master/Predicting_Recessions.ipynb
+Exploring Deep Learning/Time Series with Singapore GDP data (WIP): https://github.com/nicslevelcode/nicslevelAI/blob/master/Predicting_Recessions.ipynb
 
-<br>Looking through AI/ML jobs in Singapore: https://github.com/nicslevelcode/nicslevelAI/blob/master/AI%20and%20ML%20jobs.ipynb
+Looking through AI/ML jobs in Singapore: https://github.com/nicslevelcode/nicslevelAI/blob/master/AI%20and%20ML%20jobs.ipynb
 
 
