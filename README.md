@@ -6,7 +6,7 @@ If you'd like to get started on Artificial Intelligence and Machine Learning, I'
 https://github.com/nicslevelcode/nicslevelAI/blob/master/Artificial%20Intelligence%20and%20Machine%20Learning%20Guide.docx
 
 ## Notebooks
-* Useful Python concepts:
+* Useful Python concepts:https://github.com/nicslevelcode/nicslevelAI/blob/master/Python_Useful_Notes.ipynb
 
 * Predicting HDB (Singapore Housing) Resale Prices: https://github.com/nicslevelcode/nicslevelAI/blob/master/HDB_Resale_Prices.ipynb
 
@@ -15,7 +15,7 @@ https://github.com/nicslevelcode/nicslevelAI/blob/master/Artificial%20Intelligen
 * Data analyst by looking through AI/ML jobs in Singapore: https://github.com/nicslevelcode/nicslevelAI/blob/master/AI%20and%20ML%20jobs.ipynb
 
 ## Other Useful Free Resources
-The OSSU curriculum is a complete education in computer science using online materials:
+* The OSSU curriculum is a complete education in computer science using online materials:
 https://github.com/ossu/computer-science
 
 
