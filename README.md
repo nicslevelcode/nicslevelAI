@@ -6,7 +6,7 @@ If you'd like to get started on Artificial Intelligence and Machine Learning, I'
 https://github.com/nicslevelcode/nicslevelAI/blob/master/Artificial%20Intelligence%20and%20Machine%20Learning%20Guide.docx
 
 ## Notebooks
-* Useful Python concepts:https://github.com/nicslevelcode/nicslevelAI/blob/master/Python_Useful_Notes.ipynb
+* Useful Python concepts: https://github.com/nicslevelcode/nicslevelAI/blob/master/Python_Useful_Notes.ipynb
 
 * Predicting HDB (Singapore Housing) Resale Prices: https://github.com/nicslevelcode/nicslevelAI/blob/master/HDB_Resale_Prices.ipynb
 
