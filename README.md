@@ -12,7 +12,7 @@ https://github.com/nicslevelcode/nicslevelAI/blob/master/Artificial%20Intelligen
 
 * Exploring Deep Learning/Time Series with Singapore GDP data (WIP): https://github.com/nicslevelcode/nicslevelAI/blob/master/Predicting_Recessions.ipynb
 
-* Data analyst by looking through AI/ML jobs in Singapore: https://github.com/nicslevelcode/nicslevelAI/blob/master/AI%20and%20ML%20jobs.ipynb
+* Data analysis of AI/ML jobs in Singapore: https://github.com/nicslevelcode/nicslevelAI/blob/master/AI%20and%20ML%20jobs.ipynb
 
 ## Other Useful Free Resources
 * The OSSU curriculum is a complete education in computer science using online materials:
