@@ -1,6 +1,6 @@
 # print('Hello World!')
 
-Welcome to my public showcase of projects that I've done with regards to Artificial Intelligence and Machine Learning
+Welcome to my public showcase of projects
 
 ## Useful Free Resources
 * The OSSU curriculum is a complete education in computer science using online materials:
